@@ -1,0 +1,5 @@
+2023-09-13 23:46:47:4647 [31merror[39m: [31mErro ao buscar filmes: Cast to ObjectId failed for value "23523523" (type string) at path "_id" for model "Movie"[39m
+2023-09-13 23:47:11:4711 [31merror[39m: [31mErro ao buscar filmes: Cast to ObjectId failed for value "23523523" (type string) at path "_id" for model "Movie"[39m
+2023-09-13 23:47:55:4755 [31merror[39m: [31mErro ao buscar filmes: Cast to ObjectId failed for value "23523523" (type string) at path "_id" for model "Movie"[39m
+2023-09-13 23:48:12:4812 [31merror[39m: [31mErro ao buscar filmes: Cast to ObjectId failed for value "a1421" (type string) at path "_id" for model "Movie"[39m
+2023-09-13 23:56:32:5632 [31merror[39m: [31mErro ao remover filme: movie.delete is not a function[39m
